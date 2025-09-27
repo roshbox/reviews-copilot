@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "location": "HOU",
+    "rating": 2,
+    "text": "The order was wrong but staff fixed it quickly.",
+    "date": "2025-07-01"
+  },
+  {
+    "id": 2,
+    "location": "CHI",
+    "rating": 4,
+    "text": "Waited 47 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-08-27"
+  },
+  {
+    "id": 3,
+    "location": "CHI",
+    "rating": 1,
+    "text": "Clean store, decent prices, parking a bit tight.",
+    "date": "2025-09-21"
+  },
+  {
+    "id": 4,
+    "location": "SF",
+    "rating": 4,
+    "text": "Great quality for the price.",
+    "date": "2025-08-20"
+  },
+  {
+    "id": 5,
+    "location": "CHI",
+    "rating": 4,
+    "text": "The order was wrong but staff fixed it quickly.",
+    "date": "2025-07-17"
+  },
+  {
+    "id": 6,
+    "location": "CHI",
+    "rating": 4,
+    "text": "Waited 20 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-06-03"
+  },
+  {
+    "id": 7,
+    "location": "SF",
+    "rating": 4,
+    "text": "Fast pickup and friendly smiles.",
+    "date": "2025-09-07"
+  },
+  {
+    "id": 8,
+    "location": "NYC",
+    "rating": 5,
+    "text": "Checkout line was too long.",
+    "date": "2025-08-26"
+  },
+  {
+    "id": 9,
+    "location": "SF",
+    "rating": 3,
+    "text": "Waited 51 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-08-16"
+  },
+  {
+    "id": 10,
+    "location": "HOU",
+    "rating": 4,
+    "text": "Food was good but order notes were ignored.",
+    "date": "2025-09-28"
+  },
+    {
+        "id": 11,
+        "location": "NYC",
+        "rating": 5,
+        "text": "Great quality for the price.",
+        "date": "2025-07-30"
+    }
+]

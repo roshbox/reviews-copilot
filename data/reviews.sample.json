@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "location": "HOU",
+    "rating": 2,
+    "text": "The order was wrong but staff fixed it quickly.",
+    "date": "2025-07-01"
+  },
+  {
+    "id": 2,
+    "location": "CHI",
+    "rating": 4,
+    "text": "Waited 47 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-08-27"
+  },
+  {
+    "id": 3,
+    "location": "CHI",
+    "rating": 1,
+    "text": "Clean store, decent prices, parking a bit tight.",
+    "date": "2025-09-21"
+  },
+  {
+    "id": 4,
+    "location": "SF",
+    "rating": 4,
+    "text": "Great quality for the price.",
+    "date": "2025-08-20"
+  },
+  {
+    "id": 5,
+    "location": "CHI",
+    "rating": 4,
+    "text": "The order was wrong but staff fixed it quickly.",
+    "date": "2025-07-17"
+  },
+  {
+    "id": 6,
+    "location": "CHI",
+    "rating": 4,
+    "text": "Waited 20 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-06-03"
+  },
+  {
+    "id": 7,
+    "location": "SF",
+    "rating": 4,
+    "text": "Fast pickup and friendly smiles.",
+    "date": "2025-09-07"
+  },
+  {
+    "id": 8,
+    "location": "NYC",
+    "rating": 5,
+    "text": "Checkout line was too long.",
+    "date": "2025-08-26"
+  },
+  {
+    "id": 9,
+    "location": "SF",
+    "rating": 3,
+    "text": "Waited 51 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-08-16"
+  },
+  {
+    "id": 10,
+    "location": "HOU",
+    "rating": 4,
+    "text": "Food was good but order notes were ignored.",
+    "date": "2025-09-28"
+  },
+  {
+    "id": 11,
+    "location": "LA",
+    "rating": 2,
+    "text": "Loved the fresh produce section.",
+    "date": "2025-06-28"
+  },
+  {
+    "id": 12,
+    "location": "SF",
+    "rating": 4,
+    "text": "Unhelpful staff, wouldn’t recommend.",
+    "date": "2025-09-13"
+  },
+  {
+    "id": 13,
+    "location": "CHI",
+    "rating": 3,
+    "text": "Waited 41 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-06-13"
+  },
+  {
+    "id": 14,
+    "location": "NYC",
+    "rating": 1,
+    "text": "Clean store, decent prices, parking a bit tight.",
+    "date": "2025-06-06"
+  },
+  {
+    "id": 15,
+    "location": "CHI",
+    "rating": 1,
+    "text": "Amazing experience! Definitely coming back.",
+    "date": "2025-07-14"
+  },
+  {
+    "id": 16,
+    "location": "CHI",
+    "rating": 3,
+    "text": "Waited 21 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-09-07"
+  },
+  {
+    "id": 17,
+    "location": "NYC",
+    "rating": 5,
+    "text": "Store was messy and hard to find items.",
+    "date": "2025-09-04"
+  },
+  {
+    "id": 18,
+    "location": "LA",
+    "rating": 5,
+    "text": "Food was good but order notes were ignored.",
+    "date": "2025-09-15"
+  },
+  {
+    "id": 19,
+    "location": "NYC",
+    "rating": 3,
+    "text": "Mobile app worked perfectly for my order.",
+    "date": "2025-08-17"
+  },
+  {
+    "id": 20,
+    "location": "NYC",
+    "rating": 1,
+    "text": "Waited 12 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-08-23"
+  },
+  {
+    "id": 21,
+    "location": "NYC",
+    "rating": 2,
+    "text": "Delivery late and items missing.",
+    "date": "2025-06-17"
+  },
+  {
+    "id": 22,
+    "location": "LA",
+    "rating": 4,
+    "text": "Mobile app worked perfectly for my order.",
+    "date": "2025-09-28"
+  },
+  {
+    "id": 23,
+    "location": "LA",
+    "rating": 5,
+    "text": "Loved the fresh produce section.",
+    "date": "2025-08-07"
+  },
+  {
+    "id": 24,
+    "location": "SF",
+    "rating": 2,
+    "text": "Store was messy and hard to find items.",
+    "date": "2025-06-12"
+  },
+  {
+    "id": 25,
+    "location": "SF",
+    "rating": 2,
+    "text": "Amazing experience! Definitely coming back.",
+    "date": "2025-09-11"
+  },
+  {
+    "id": 26,
+    "location": "CHI",
+    "rating": 1,
+    "text": "Unhelpful staff, wouldn’t recommend.",
+    "date": "2025-06-11"
+  },
+  {
+    "id": 27,
+    "location": "NYC",
+    "rating": 3,
+    "text": "Checkout line was too long.",
+    "date": "2025-09-28"
+  },
+  {
+    "id": 28,
+    "location": "HOU",
+    "rating": 3,
+    "text": "Loved the fresh produce section.",
+    "date": "2025-07-26"
+  },
+  {
+    "id": 29,
+    "location": "NYC",
+    "rating": 1,
+    "text": "Waited 25 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-07-13"
+  },
+  {
+    "id": 30,
+    "location": "NYC",
+    "rating": 4,
+    "text": "Great quality for the price.",
+    "date": "2025-07-19"
+  },
+  {
+    "id": 31,
+    "location": "NYC",
+    "rating": 4,
+    "text": "Clean store, decent prices, parking a bit tight.",
+    "date": "2025-08-26"
+  },
+  {
+    "id": 32,
+    "location": "HOU",
+    "rating": 3,
+    "text": "Waited 33 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-07-11"
+  },
+  {
+    "id": 33,
+    "location": "LA",
+    "rating": 3,
+    "text": "App kept crashing, couldn’t place order.",
+    "date": "2025-09-07"
+  },
+  {
+    "id": 34,
+    "location": "NYC",
+    "rating": 1,
+    "text": "Store was messy and hard to find items.",
+    "date": "2025-08-21"
+  },
+  {
+    "id": 35,
+    "location": "SF",
+    "rating": 5,
+    "text": "Unhelpful staff, wouldn’t recommend.",
+    "date": "2025-08-13"
+  },
+  {
+    "id": 36,
+    "location": "NYC",
+    "rating": 2,
+    "text": "Great quality for the price.",
+    "date": "2025-09-08"
+  },
+  {
+    "id": 37,
+    "location": "HOU",
+    "rating": 5,
+    "text": "Checkout line was too long.",
+    "date": "2025-07-23"
+  },
+  {
+    "id": 38,
+    "location": "SF",
+    "rating": 2,
+    "text": "Fast pickup and friendly smiles.",
+    "date": "2025-08-10"
+  },
+  {
+    "id": 39,
+    "location": "HOU",
+    "rating": 4,
+    "text": "Food was good but order notes were ignored.",
+    "date": "2025-07-08"
+  },
+  {
+    "id": 40,
+    "location": "LA",
+    "rating": 3,
+    "text": "Unhelpful staff, wouldn’t recommend.",
+    "date": "2025-06-28"
+  },
+  {
+    "id": 41,
+    "location": "HOU",
+    "rating": 1,
+    "text": "Delivery late and items missing.",
+    "date": "2025-09-15"
+  },
+  {
+    "id": 42,
+    "location": "CHI",
+    "rating": 2,
+    "text": "Quick service and super friendly at checkout!",
+    "date": "2025-06-27"
+  },
+  {
+    "id": 43,
+    "location": "CHI",
+    "rating": 1,
+    "text": "Amazing experience! Definitely coming back.",
+    "date": "2025-09-26"
+  },
+  {
+    "id": 44,
+    "location": "NYC",
+    "rating": 5,
+    "text": "Store was messy and hard to find items.",
+    "date": "2025-07-14"
+  },
+  {
+    "id": 45,
+    "location": "HOU",
+    "rating": 5,
+    "text": "Waited 38 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-08-18"
+  },
+  {
+    "id": 46,
+    "location": "NYC",
+    "rating": 2,
+    "text": "Food was good but order notes were ignored.",
+    "date": "2025-09-19"
+  },
+  {
+    "id": 47,
+    "location": "NYC",
+    "rating": 1,
+    "text": "Loved the fresh produce section.",
+    "date": "2025-08-22"
+  },
+  {
+    "id": 48,
+    "location": "HOU",
+    "rating": 2,
+    "text": "Mobile app worked perfectly for my order.",
+    "date": "2025-08-15"
+  },
+  {
+    "id": 49,
+    "location": "CHI",
+    "rating": 1,
+    "text": "Waited 38 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-09-18"
+  },
+  {
+    "id": 50,
+    "location": "HOU",
+    "rating": 1,
+    "text": "Unhelpful staff, wouldn’t recommend.",
+    "date": "2025-08-02"
+  },
+  {
+    "id": 51,
+    "location": "SF",
+    "rating": 3,
+    "text": "App kept crashing, couldn’t place order.",
+    "date": "2025-08-04"
+  },
+  {
+    "id": 52,
+    "location": "CHI",
+    "rating": 2,
+    "text": "Clean store, decent prices, parking a bit tight.",
+    "date": "2025-08-22"
+  },
+  {
+    "id": 53,
+    "location": "CHI",
+    "rating": 1,
+    "text": "Checkout line was too long.",
+    "date": "2025-08-19"
+  },
+  {
+    "id": 54,
+    "location": "HOU",
+    "rating": 4,
+    "text": "Waited 26 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-06-04"
+  },
+  {
+    "id": 55,
+    "location": "LA",
+    "rating": 4,
+    "text": "Mobile app worked perfectly for my order.",
+    "date": "2025-07-28"
+  },
+  {
+    "id": 56,
+    "location": "CHI",
+    "rating": 4,
+    "text": "Food was good but order notes were ignored.",
+    "date": "2025-09-26"
+  },
+  {
+    "id": 57,
+    "location": "CHI",
+    "rating": 2,
+    "text": "App kept crashing, couldn’t place order.",
+    "date": "2025-07-19"
+  },
+  {
+    "id": 58,
+    "location": "CHI",
+    "rating": 5,
+    "text": "Loved the fresh produce section.",
+    "date": "2025-08-19"
+  },
+  {
+    "id": 59,
+    "location": "SF",
+    "rating": 2,
+    "text": "Waited 11 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-09-17"
+  },
+  {
+    "id": 60,
+    "location": "SF",
+    "rating": 2,
+    "text": "Mobile app worked perfectly for my order.",
+    "date": "2025-09-07"
+  },
+  {
+    "id": 61,
+    "location": "HOU",
+    "rating": 4,
+    "text": "Store was messy and hard to find items.",
+    "date": "2025-07-14"
+  },
+  {
+    "id": 62,
+    "location": "NYC",
+    "rating": 3,
+    "text": "Food was good but order notes were ignored.",
+    "date": "2025-07-17"
+  },
+  {
+    "id": 63,
+    "location": "CHI",
+    "rating": 5,
+    "text": "Great quality for the price.",
+    "date": "2025-09-22"
+  },
+  {
+    "id": 64,
+    "location": "LA",
+    "rating": 5,
+    "text": "Fast pickup and friendly smiles.",
+    "date": "2025-07-25"
+  },
+  {
+    "id": 65,
+    "location": "CHI",
+    "rating": 2,
+    "text": "Quick service and super friendly at checkout!",
+    "date": "2025-09-24"
+  },
+  {
+    "id": 66,
+    "location": "NYC",
+    "rating": 3,
+    "text": "Food was good but order notes were ignored.",
+    "date": "2025-09-19"
+  },
+  {
+    "id": 67,
+    "location": "HOU",
+    "rating": 3,
+    "text": "Waited 23 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-09-21"
+  },
+  {
+    "id": 68,
+    "location": "NYC",
+    "rating": 4,
+    "text": "Quick service and super friendly at checkout!",
+    "date": "2025-09-15"
+  },
+  {
+    "id": 69,
+    "location": "HOU",
+    "rating": 5,
+    "text": "Fast pickup and friendly smiles.",
+    "date": "2025-08-27"
+  },
+  {
+    "id": 70,
+    "location": "LA",
+    "rating": 1,
+    "text": "Clean store, decent prices, parking a bit tight.",
+    "date": "2025-07-17"
+  },
+  {
+    "id": 71,
+    "location": "NYC",
+    "rating": 2,
+    "text": "Amazing experience! Definitely coming back.",
+    "date": "2025-06-05"
+  },
+  {
+    "id": 72,
+    "location": "LA",
+    "rating": 3,
+    "text": "App kept crashing, couldn’t place order.",
+    "date": "2025-06-24"
+  },
+  {
+    "id": 73,
+    "location": "LA",
+    "rating": 1,
+    "text": "Waited 37 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-06-08"
+  },
+  {
+    "id": 74,
+    "location": "CHI",
+    "rating": 4,
+    "text": "Quick service and super friendly at checkout!",
+    "date": "2025-09-05"
+  },
+  {
+    "id": 75,
+    "location": "CHI",
+    "rating": 1,
+    "text": "Clean store, decent prices, parking a bit tight.",
+    "date": "2025-08-04"
+  },
+  {
+    "id": 76,
+    "location": "NYC",
+    "rating": 4,
+    "text": "Food was good but order notes were ignored.",
+    "date": "2025-07-06"
+  },
+  {
+    "id": 77,
+    "location": "LA",
+    "rating": 5,
+    "text": "Waited 40 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-08-23"
+  },
+  {
+    "id": 78,
+    "location": "LA",
+    "rating": 5,
+    "text": "Store was messy and hard to find items.",
+    "date": "2025-07-24"
+  },
+  {
+    "id": 79,
+    "location": "NYC",
+    "rating": 2,
+    "text": "Waited 28 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-07-05"
+  },
+  {
+    "id": 80,
+    "location": "NYC",
+    "rating": 3,
+    "text": "Food was good but order notes were ignored.",
+    "date": "2025-08-20"
+  },
+  {
+    "id": 81,
+    "location": "CHI",
+    "rating": 4,
+    "text": "Checkout line was too long.",
+    "date": "2025-09-02"
+  },
+  {
+    "id": 82,
+    "location": "SF",
+    "rating": 5,
+    "text": "Great quality for the price.",
+    "date": "2025-08-06"
+  },
+  {
+    "id": 83,
+    "location": "HOU",
+    "rating": 2,
+    "text": "Fast pickup and friendly smiles.",
+    "date": "2025-09-19"
+  },
+  {
+    "id": 84,
+    "location": "LA",
+    "rating": 1,
+    "text": "Waited 13 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-09-26"
+  },
+  {
+    "id": 85,
+    "location": "SF",
+    "rating": 5,
+    "text": "Checkout line was too long.",
+    "date": "2025-07-06"
+  },
+  {
+    "id": 86,
+    "location": "NYC",
+    "rating": 3,
+    "text": "Amazing experience! Definitely coming back.",
+    "date": "2025-09-14"
+  },
+  {
+    "id": 87,
+    "location": "LA",
+    "rating": 5,
+    "text": "Mobile app worked perfectly for my order.",
+    "date": "2025-06-05"
+  },
+  {
+    "id": 88,
+    "location": "CHI",
+    "rating": 2,
+    "text": "Food was good but order notes were ignored.",
+    "date": "2025-07-09"
+  },
+  {
+    "id": 89,
+    "location": "CHI",
+    "rating": 5,
+    "text": "Unhelpful staff, wouldn’t recommend.",
+    "date": "2025-08-12"
+  },
+  {
+    "id": 90,
+    "location": "NYC",
+    "rating": 3,
+    "text": "Loved the fresh produce section.",
+    "date": "2025-09-22"
+  },
+  {
+    "id": 91,
+    "location": "NYC",
+    "rating": 5,
+    "text": "App kept crashing, couldn’t place order.",
+    "date": "2025-09-17"
+  },
+  {
+    "id": 92,
+    "location": "LA",
+    "rating": 2,
+    "text": "Mobile app worked perfectly for my order.",
+    "date": "2025-06-24"
+  },
+  {
+    "id": 93,
+    "location": "NYC",
+    "rating": 1,
+    "text": "Quick service and super friendly at checkout!",
+    "date": "2025-08-04"
+  },
+  {
+    "id": 94,
+    "location": "NYC",
+    "rating": 2,
+    "text": "Great quality for the price.",
+    "date": "2025-06-11"
+  },
+  {
+    "id": 95,
+    "location": "LA",
+    "rating": 1,
+    "text": "Amazing experience! Definitely coming back.",
+    "date": "2025-09-02"
+  },
+  {
+    "id": 96,
+    "location": "SF",
+    "rating": 4,
+    "text": "App kept crashing, couldn’t place order.",
+    "date": "2025-07-26"
+  },
+  {
+    "id": 97,
+    "location": "NYC",
+    "rating": 1,
+    "text": "Waited 30 min for pickup; staff seemed overwhelmed.",
+    "date": "2025-08-10"
+  },
+  {
+    "id": 98,
+    "location": "SF",
+    "rating": 3,
+    "text": "The order was wrong but staff fixed it quickly.",
+    "date": "2025-06-15"
+  },
+  {
+    "id": 99,
+    "location": "HOU",
+    "rating": 2,
+    "text": "Quick service and super friendly at checkout!",
+    "date": "2025-06-20"
+  },
+  {
+    "id": 100,
+    "location": "CHI",
+    "rating": 5,
+    "text": "Loved the fresh produce section.",
+    "date": "2025-07-30"
+  }
+]
