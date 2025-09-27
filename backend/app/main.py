@@ -11,15 +11,15 @@ load_dotenv()
 app = FastAPI(title="Reviews Copilot", version="0.1")
 
 # Configure CORS
-# frontend_url = os.getenv("FRONTEND_URL", "")
+frontend_url = os.getenv("FRONTEND_URL", "")
 origins = [
     "http://localhost:5173",   
     "http://127.0.0.1:5173",
     "http://localhost:4173",
     "http://127.0.0.1:4173"
 ]
-# if frontend_url:
-#    origins.append(frontend_url)
+if frontend_url:
+    origins.append(frontend_url)
 
 app.add_middleware(
     CORSMiddleware,
