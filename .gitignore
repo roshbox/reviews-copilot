@@ -37,3 +37,4 @@ venv/
 # Databases
 *.sqlite3
 reviews.db
+.env
